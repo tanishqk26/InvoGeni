@@ -4,7 +4,6 @@ from pdf2image import convert_from_path
 from PIL import Image
 import pandas as pd
 import os
-from io import BytesIO
 import tempfile
 import google.generativeai as genai  # Import the Gemini AI library
 from dotenv import load_dotenv
