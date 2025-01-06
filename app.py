@@ -13,7 +13,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Now, securely fetch the API key
-api_key = os.getenv("GENAI_API_KEY")
+api_key = os.getenv("GOOGLE_API_KEY")
 
 # Initialize Gemini AI with the loaded API key
 import google.generativeai as genai

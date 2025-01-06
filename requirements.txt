@@ -1,7 +1,0 @@
-streamlit
-pytesseract
-pdf2image
-pillow
-pandas
-google-generativeai
-python-dotenv
